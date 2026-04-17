@@ -23,3 +23,6 @@ Here's 2 packages I recommend you install to enhance your linux experiance on An
 1. xfce4 Goodies  
 this allows you to have etra apps and featers like a battery indicator, task manager ect.  
 to install do ```pkg install xfce4-goodies```
+2. firefox  
+it allows you to browse the internet on Linux
+to install do ```pkg install firefox```
