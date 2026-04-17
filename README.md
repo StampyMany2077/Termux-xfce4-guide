@@ -19,7 +19,7 @@ now your ready to do this
 ```termux-x11 :0 -xstartup "dbus-launch --exit-with-session xfce4-session"```  
 this will start a X server running xfce4, now open the termux:x11 app 
 # Get Sound Working
-You Need PaulseAudio for the sound to work, overwise there will be no sound 
+You Need PaulseAudio for the sound to work, overwise there will be no sound  
 first you will need to install pulseaudio by doing  
 ```pkg install pulseaudio```
 then while the linux X server is running do  
