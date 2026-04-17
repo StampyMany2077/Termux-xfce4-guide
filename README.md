@@ -25,5 +25,4 @@ this allows you to have etra apps and featers like a battery indicator, task man
 to install do ```pkg install xfce4-goodies```
 2. firefox  
 it allows you to browse the internet on Linux
-to install do ```pkg install firefox```  
-I would also recommemd Chromium if it wasent for it being buggy to run and websites not loading unless you lower your security level and you having to make your browser more prone to crashing if one tab crashes just to get sites to load  
+to install do ```pkg install firefox```  I would also recommemd Chromium if it wasent for it being buggy to run and websites not loading unless you lower your security level and you having to make your browser more prone to crashing if one tab crashes just to get sites to load  
