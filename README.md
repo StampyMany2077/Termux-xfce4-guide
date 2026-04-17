@@ -1,5 +1,5 @@
 # Termux-Linux-Runner
-Yes you can run linux on your phone.
+Yes you can run linux with a GUI/Desktop on your phone.
 | Functions |things that work on linux|
 |------------|--------------
 | Wi-Fi | ✅ Fully Funtional |
