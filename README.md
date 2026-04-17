@@ -4,8 +4,8 @@ Tested on Samsung Galaxy A15 5G
 | Functions | Do They Work? |
 |------------|--------------
 | Wi-Fi | ✅ Fully Funtional |
-| Sound | ⚠️ Reqirues PulseAudio, Sound doesn't Auto Stop when you switch apps
-| Graphics Acceleration | ✅ Yes but complicated to setup
+| Sound | ⚠️ Yes, but Reqirues PulseAudio, and Sound doesn't Auto Stop when you switch apps
+| Graphics Acceleration | ✅ Yes but requires setup
 | Speed | ✅✅ Full Speed Even On A Semi-Low end phone
 # Table Of Contents
 1. [Prerequisites](README.md#prerequisites)
@@ -45,7 +45,7 @@ Then to start the linux Server do ```GALLIUM_DRIVER=virpipe MESA_GL_VERSION_OVER
 (Note: if you want graphic acceleration ingnore the start command on the Installation & Run guide Section of the readme)  
 # how to fix server auto stoping
 this is mainly caused by the Android Phantom Process Killer  
-to disable it and allow what's called "Child Processes"  
+to disable it and allow what's called "Child Processes" from getting auto killed   
 first you need to enable developer options by Spaming the build number 7 times  
 then you need to go into developer options and scroll till you find "Disable child process restrictions"  
 click it to enable it, and now your done
