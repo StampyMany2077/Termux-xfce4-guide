@@ -7,4 +7,4 @@ Yes you can run linux on your phone.
 | Graphics Acceleration | ✅ Yes but complicated to setup
 # Prerequisites
 first you will need [Termux](https://f-droid.org/repo/com.termux_1022.apk) 
-you will also need [Termux:X11](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk)
+and [Termux:X11](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk)
