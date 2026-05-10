@@ -55,7 +55,7 @@ first you need to enable developer options by Spaming the build number 7 times
 then you need to go into developer options and scroll till you find "Disable child process restrictions"  
 click it to enable it, and now your done
 # autorun script
-i have made a autorun script that allows you to run the script to both start the server and take you to the x11 app, both with and without sound support   
+i have made a autorun script that allows you to run the script to both start the server and take you to the x11 app, both with and without sound support.     
 [start.sh](https://github.com/StampyMany2077/Termux-xfce4-guide/releases/download/scripts/start.sh)*   
 *reqires pulseaudio to be installed
 # Optinal Packages
