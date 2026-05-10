@@ -56,7 +56,7 @@ then you need to go into developer options and scroll till you find "Disable chi
 click it to enable it, and now your done
 # autorun script
 i have made a autorun script that aloows you to run the script to both start the server and take you o the x11 app
-[start.sh] (https://github.com/StampyMany2077/Termux-xfce4-guide/releases/download/scripts/start.sh)*
+[start.sh] (https://github.com/StampyMany2077/Termux-xfce4-guide/releases/download/scripts/start.sh)*   
 *reqires pulseaudio to be installed
 # Optinal Packages
 Here's 2 packages I recommend you install to enhance your linux experiance on Android  
