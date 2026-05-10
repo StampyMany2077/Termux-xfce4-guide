@@ -60,7 +60,7 @@ i have made a autorun script that allows you to run the script to both start the
 *reqires pulseaudio to be installed, refer to [this guide](https://github.com/StampyMany2077/Termux-xfce4-guide/blob/main/README.md#get-sound-working)
 [start-no-audio.sh](https://github.com/StampyMany2077/Termux-xfce4-guide/releases/download/scripts/start-no-audio.sh)   
 install using ```wget https://gethub.com/StampyMany2077/Termux-xfce4-gudie/releases/download/scripts/start.sh```   
-give it the nessisary permitions by doing ```chmod -x start.sh```
+give it the nessisary permitions by doing ```chmod -x start.sh```   
 then run it by doing ```./start.sh```   
 or just run bash ```start.sh``` to skip doing the permition step
 # Optinal Packages
