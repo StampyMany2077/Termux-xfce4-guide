@@ -18,7 +18,8 @@ Tested on Samsung Galaxy A15 5G
 3. [Get Sound Working](README.md#get-sound-working)
 4. [How to get Graphic Acceleration](README.md#how-to-get-graphic-acceleration)
 5. [how to fix server auto stoping](README.md#how-to-fix-server-auto-stoping)
-6. [Optinal Packages](README.md#optinal-packages)
+6. [autorun script](README.md#autorun-script)
+7. [Optinal Packages](README.md#optinal-packages)
 # Prerequisites
 first you will need [Termux](https://f-droid.org/repo/com.termux_1022.apk)
 and [Termux:X11](https://github.com/termux/termux-x11/releases/download/nightly/app-arm64-v8a-debug.apk)   
@@ -57,7 +58,7 @@ click it to enable it, and now your done
 # autorun script
 i have made a autorun script that allows you to run the script to both start the server and take you to the x11 app, both with and without sound support.     
 [start.sh](https://github.com/StampyMany2077/Termux-xfce4-guide/releases/download/scripts/start.sh)*   
-*reqires pulseaudio to be installed, refer to [this guide](https://github.com/StampyMany2077/Termux-xfce4-guide/blob/main/README.md#get-sound-working)
+*reqires pulseaudio to be installed, refer to [this guide](README.md#get-sound-working)
 [start-no-audio.sh](https://github.com/StampyMany2077/Termux-xfce4-guide/releases/download/scripts/start-no-audio.sh)   
 install using ```wget https://gethub.com/StampyMany2077/Termux-xfce4-gudie/releases/download/scripts/start.sh```   
 give it the nessisary permitions by doing ```chmod -x start.sh```   
