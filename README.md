@@ -54,6 +54,9 @@ to disable it and allow what's called "Child Processes" from getting auto killed
 first you need to enable developer options by Spaming the build number 7 times  
 then you need to go into developer options and scroll till you find "Disable child process restrictions"  
 click it to enable it, and now your done
+# autorun script
+i have made a autorun script that aloows you to run the script to both start the server and take you o the x11 app
+
 # Optinal Packages
 Here's 2 packages I recommend you install to enhance your linux experiance on Android  
 1. xfce4 Goodies  
@@ -62,4 +65,4 @@ to install do ```pkg install xfce4-goodies```
 2. firefox  
 it allows you to browse the internet on Linux  
 to install do ```pkg install firefox```  
-I would also recommemd Chromium if it wasn't for it being buggy to run and websites not loading unless you lower your security level and you having to make your browser more prone to crashing if one tab crashes just to get sites to load  
+I would also recommemd Chromium if it wasn't for it being buggy to run and websites not loading unless you lower your security level and you having to make your browser more prone to crashing if one tab crashes just to get sites to load
