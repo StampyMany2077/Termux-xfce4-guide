@@ -77,7 +77,8 @@ you also need to install xterm aswell to do it do ```apt install xterm```
 to run the server first do ```exit``` to take you back to the termux envirment   
 then run ```proot-distro login ubuntu --shared-tmp -- env DISPLAY=:0 dbus-launch --exit-with-session xfce4-session```   
 that will restart the proot envirment will the x11 server so you can access the server   
-just change ubuntu in the command line so it works with your distro
+just change ubuntu in the command line so it works with your distro (note: dont you rthe autorun scripts   
+its ownly for the main termux xfce4 gui without proot)
 # Optinal Packages
 Here's 2 packages I recommend you install to enhance your linux experiance on Android  
 1. xfce4 Goodies  
