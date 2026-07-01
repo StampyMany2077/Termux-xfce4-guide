@@ -64,6 +64,13 @@ install using ```wget https://gethub.com/StampyMany2077/Termux-xfce4-gudie/relea
 give it the nessisary permitions by doing ```chmod +x start.sh```   
 then run it by doing ```./start.sh```   
 or just run ```bash start.sh``` to skip doing the permition step
+# Using Proot 
+to use proot you will need to have the x11-repo   
+by doing ```pkg install x11-repo``` *(note: you will also need to install termux-x11 before install the distro of your choice)   
+to install a proot you will need to do ```pkg install proot-distro```   
+to install a distro, debian, ubuntu ect. you will need to run ```proot-distro install ubuntu``` for this example I'll use ubuntu   
+to get into the ubuntu envirment you will need to do ```proot-distro login ubuntu --shared-tmp``` the ```--shared-tmp``` is needed for the ubuntu envirment to access termux-x11 in   
+our termux envirment. now install how you would *refer to [this guide](README.md#installation--run-guide) just use apt instead of pkg
 # Optinal Packages
 Here's 2 packages I recommend you install to enhance your linux experiance on Android  
 1. xfce4 Goodies  
