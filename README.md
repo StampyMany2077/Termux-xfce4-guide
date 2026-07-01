@@ -11,7 +11,7 @@ Tested on Samsung Galaxy A15 5G
 | Access to Local Files | ✅ yes, just do ```termux-setup-storage```
 | Camera | ❌ No Implementation for camera to work in xfce4
 | Microphone | ❌ No implementation for the mic to work in xfce4
-| x64/x86 linux apps | ❌ only aarch64 or arm64 apps will run depending on your cpu architecture
+| x64/x86 linux apps | ❌ only aarch64 or arm64 apps will run depending on the cpu architecture of your phone
 # Table Of Contents
 1. [Prerequisites](README.md#prerequisites)
 2. [Installation & Run Guide](README.md#Installation--Run-Guide)
