@@ -81,8 +81,8 @@ that will restart the proot envirment will the x11 server so you can access the 
 just change ubuntu in the command line so it works with your distro (note: dont use the autorun script    
 its ownly for the main termux xfce4 gui without proot)
 # How to fix cannot open display for proot
-so in x11 when you run it, it tries to ping the display which is the display port you set just like if you were to ping a website and if you were to ping a display server that's not open yet you will see.  
-```xfce4-session: Cannot open display: .```.  
+so in x11 when you run it, it tries to ping the display which is the display port you set just like if you were to ping a website and if you were to ping a display server that's not open yet you will see  
+```xfce4-session: Cannot open display: .```  
 this is becuase it cant find an open display to connect to localy so to fix it you can run ```termux-x11 :0 -ac &``` not sure what the ```-ac``` is for but still then after you run that then run ```proot-distro login ubuntu --shared-tmp -- env DISPLAY=:0 dbus-launch --exit-with-session xfce4-session``` like normal and it should ping the display server and connect to it just fine
 # Optinal Packages
 Here's 2 packages I recommend you install to enhance your linux experiance on Android  
