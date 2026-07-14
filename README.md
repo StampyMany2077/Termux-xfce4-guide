@@ -4,7 +4,7 @@ Tested on Samsung Galaxy A15 5G
 | Functions | Do They Work? |
 |------------|--------------
 | Wi-Fi | ✅ Fully Funtional |
-| Sound | ⚠️ Yes, but Reqirues PulseAudio, and Sound doesn't Auto Stop when you switch apps
+| Sound | ⚠️ Yes, but Sound doesn't Auto Stop when you switch apps
 | Graphics Acceleration | ✅ Yes but requires setup
 | Speed | ✅✅ Full Speed Even On A Semi-Low end phone |  
 | Space | 2-4 gb Minimum 
