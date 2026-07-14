@@ -20,7 +20,7 @@ Tested on Samsung Galaxy A15 5G
 5. [how to fix server auto stoping](README.md#how-to-fix-server-auto-stoping)
 6. [autorun script](README.md#autorun-script)
 7. [Using Proot](README.md#Using-Proot)
-8. [How to fix cannot open display for proot](README.md#How-to-fix-cannot-open-display-for- proot)
+8. [How to fix cannot open display for proot](README.md#How-to-fix-cannot-open-display-for-proot)
 9. [Optinal Packages](README.md#optinal-packages)
 # Prerequisites
 first you will need [Termux](https://f-droid.org/repo/com.termux_1022.apk)
